@@ -1,6 +1,6 @@
 import urllib2
 
-url = "http://www.esferasoft.com"
+url = "http://shopifyexperts.org/"
 
 file_name = url.split('/')[-1]
 u = urllib2.urlopen(url)
